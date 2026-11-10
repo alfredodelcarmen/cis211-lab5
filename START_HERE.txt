@@ -1,0 +1,17 @@
+CIS 211 LAB 5
+Bright Bakery Interactive Order Calculator
+
+1. Extract this ZIP before working with the files.
+2. Read CIS_211_Lab5_Instructions.pdf, starting with the rules and Steps 1-3.
+3. Upload only starter/app.py and starter/requirements.txt to the top level
+   of a new GitHub repository named cis211-lab5. Use the instructions to deploy.
+4. Complete the TODO sections of app.py yourself. The starter is deliberately
+   unfinished: a page that loads is only the first checkpoint.
+5. Complete CIS_211_Lab5_Submission_Template.docx and save the four screenshots.
+6. Submit LastName_Lab5.zip with your FINISHED app.py, requirements.txt,
+   completed report and screenshots. Include both links in the report.
+
+Do not submit this original student-package ZIP as your completed lab.
+Do not upload your private submission report or screenshots to GitHub.
+The assignment is worth 20 points. See Brightspace for the due date.
+The Week 8 handout practice is separate and has no separate submission.
